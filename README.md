@@ -1,175 +1,109 @@
+![fullstack](https://github.com/user-attachments/assets/5166d5d5-bf42-4029-92fa-c26e54153105)
 
-![product egineer](https://github.com/user-attachments/assets/d2aea505-e154-49c8-9e64-e5b756931325)
-
-
-<h1 align="center">Hey, I'm Shaik Farooque 🚀</h1>
-
+<h1 align="center">Shaik Farooque</h1>
 <p align="center">
-  <b>Full-Stack Engineer | Product Engineer | Cloud-Native Developer</b>
+  <b>Full-Stack Product Engineer | Cloud-Native & SaaS | System Design</b><br/>
+  <i>Architecting scalable solutions with Java, Node.js, and Next.js.</i>
 </p>
 
 <p align="center">
-  <i>Coding the cosmos, one robust system at a time 🌌</i>
-</p>
-
----
-
-## 🧑‍🚀 Who Am I?
-
-I'm a seasoned **full-stack engineer** with **4+ years** of experience building, scaling, and shipping production-ready applications that handle real-world traffic. I specialize in crafting **microservices architectures**, implementing **real-time data solutions**, and developing **cross-platform applications** that deliver exceptional user experiences.
-
-My expertise spans the entire development lifecycle—from architecting scalable backend systems to creating intuitive frontend interfaces, all while maintaining robust DevOps practices and cloud-native deployments.
-
----
-
-## 🔭 Currently Working On
-
-**Logistico Platform** - Building a modern logistics management solution with:
-- **C2C & B2C marketplaces** for seamless shipping experiences
-- **Real-time tracking** with live updates and notifications
-- **Scalable microservices** deployed on Kubernetes
-- **Cross-platform apps** for web, mobile, and desktop
-
----
-
-## 🌱 Currently Learning & Exploring
-
-- **Advanced Kubernetes Patterns** - Service mesh, operators, and GitOps workflows
-- **Event-Driven Architecture** - CQRS, Event Sourcing with Kafka and RabbitMQ
-- **AI/ML Integration** - Implementing intelligent logistics routing and demand prediction
-- **Edge Computing** - Optimizing global content delivery and real-time processing
-- **Advanced Observability** - Distributed tracing and APM with OpenTelemetry
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/gRPC-6d4aff?logo=grpc&logoColor=white&style=for-the-badge"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Styled--Components-db7093?logo=styled-components&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Shadcn-111827?logo=shadcnui&logoColor=white&style=for-the-badge"/>
-
-  <!-- Mobile & Cross-Platform -->
-  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge"/>
-
-  <!-- Databases & Messaging -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge"/>
-
-  <!-- API Gateways / Protocols -->
-  <img src="https://img.shields.io/badge/Kong-002659?logo=kong&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Caddy-00C7B7?logo=caddy&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=restapi"/>
-
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=white&style=for-the-badge"/>
+  <a href="mailto:shaikfarooque575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shaikfarooque">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/pegasuscodes">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
 ---
 
-## 👯 Open for Collaboration
+## 💡 The Engineering Philosophy
 
-Always down to work on cool stuff! Hit me up if you're building:
+I am a Full-Stack Engineer with nearly **4 years of experience** building production-grade software. I describe myself as a **Polyglot Developer**—I don't subscribe to one language; I choose the best tool for the specific business architecture.
 
-- **SaaS platforms** that need to scale without breaking a sweat
-- **Real-time applications** with WebSockets, streaming data, or live features
-- **Mobile-first projects** using React Native or cross-platform tech
-- **Microservices** that actually make sense (not just trendy buzzwords)
-- **Open source tools** that make developers' lives easier
+* I use **Node.js (NestJS)** when speed-to-market, I/O concurrency, and JSON-heavy workflows are the priority.
+* I use **Java (Spring Boot)** when strict type safety, complex transaction management, and enterprise patterns are required.
+* I use **Next.js** to deliver performant, SEO-ready user interfaces.
 
 ---
 
-## 🤔 Areas Where I Can Help
+## 🔧 Technical Arsenal
 
-Got a project that needs some technical muscle? I can jump in with:
+My focus is on stability and maintainability.
 
-- **System architecture** - Making sure your app can handle growth
-- **Performance tuning** - Because nobody likes slow apps
-- **Cloud deployments** - AWS, containers, and all that jazz
-- **API design** - Clean, fast, and developer-friendly interfaces
-- **Code reviews** - Spotting issues before they become headaches
-
----
-
-## 💬 Ask Me About
-
-- **Scalable Backend Development** with Spring Boot, NestJS, and microservices patterns
-- **Modern Frontend Architecture** using React, Next.js, and state management solutions
-- **Cloud-Native Deployments** with Kubernetes, Docker, and infrastructure as code
-- **Real-time Applications** with WebSockets, Server-Sent Events, and message queues  
-- **Database Design** for high-throughput applications and data consistency patterns
-- **Mobile Development** with React Native and cross-platform strategies
-- **DevOps Practices** including monitoring, logging, and automated deployments
+| Domain | Primary Stack |
+| :--- | :--- |
+| **Backend Services** | **NestJS** (Node.js), **Spring Boot** (Java), TypeScript |
+| **Frontend Architecture** | **Next.js** (SSR/App Router), **React**, Tailwind CSS |
+| **Data Persistence** | PostgreSQL, MongoDB, Redis (Caching/Queues) |
+| **Cloud & DevOps** | **GCP** , **AWS**, Docker, Kubernetes |
+| **System Design** | Event-Driven Architecture, REST, Microservices |
 
 ---
 
-## 📈 Professional Highlights
+## ✅ Delivered Client Projects
 
-- ✅ **4+ years** of production experience with enterprise-grade applications
-- ✅ **Microservices expertise** with containerized deployments and orchestration
-- ✅ **Full-stack proficiency** across modern web and mobile technologies
-- ✅ **Cloud-native development** with AWS services and infrastructure automation
-- ✅ **Real-time systems** experience with messaging queues and event streaming
-- ✅ **DevOps mindset** with comprehensive monitoring and observability practices
+*Production applications I have architected, shipped, and currently maintain.*
 
----
+### **Wisdom Abacus Academy** (EdTech Platform)
+[🔗 Visit Live Platform](https://wisdomabacus.com)
 
-## ⚡ Fun Facts
+![Stack](https://img.shields.io/badge/Tech-Next.js_|_NestJS_|_GCP_Cloud_Run_|_MongoDB-0070f3?style=flat-square)
 
-- 🚀 Enjoy designing practical microservices when they’re the right fit
-- 🧠 I'm good at finding rabbits in hole ( Debugging )
-- 🌍 Passionate about building technology that helps real people
-- 📚 Often exploring new tools and sharing what I learn
-- 🎯 Prefer code that’s readable, maintainable, and scalable over the long run
+**The Scope:** A high-traffic educational platform featuring a marketing front-end and a secure exam engine.
+* **Cloud-Native Scaling:** Deployed the backend on **GCP Cloud Run** behind a **Global Load Balancer**, allowing the system to auto-scale during concurrent exam sessions.
+* **Backend Logic:** Engineered a **NestJS** API to handle exam state, secure session management, timer synchronization, and student analytics.
+* **Frontend:** Built a hybrid UI using **Next.js** (for SEO) and **React** (for the secured exam portal).
 
----
+<br/>
 
-## 🌐 Let's Connect
+### **RSR Aviation Services** (Corporate Solution)
+[🔗 Visit Live Platform](https://rsraviation.com)
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/)
-[![](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/)
+![Stack](https://img.shields.io/badge/Tech-Next.js_|_NestJS_|_TypeScript_|_Tailwind-000000?style=flat-square)
 
----
-
-## 📫 Let's Build Something Cool
-
-**Email:** shaikfarooque575@gmail.com
-
-Looking for a **freelance developer** or someone to **join your team**? Whether it's a quick project or a long-term role, I'm excited to work on solutions that make a real impact. Drop me a line and let's chat!
+**The Scope:** A digital transformation for an aviation services provider, focusing on performance and brand identity.
+* **Full-Stack Architecture:** Developed a modern **Next.js** frontend backed by a robust **NestJS** service layer to manage dynamic content.
+* **UI/UX:** Translated corporate branding into a responsive, pixel-perfect interface using **Tailwind CSS**.
 
 ---
 
-<p align="center">
-  <i>"Building tomorrow's applications with today's best practices"</i>
-</p>
+## 🏗️ Currently Architecting
+
+*Active research & development phase (HLD/LLD).*
+
+### **Logistico Platform** (Work in Progress)
+*A distributed logistics backend focusing on data consistency.*
+
+![Stack](https://img.shields.io/badge/Stack-Java_|_Spring_Boot_|_AWS_|_Microservices-2ea44f?style=flat-square)
+
+**The Engineering Challenge:**
+I am currently designing a B2C/C2C logistics system. My current focus is defining the **System Boundaries** and **Data Flow** to handle shipment tracking across multiple actors (Sender, Courier, Receiver).
+
+* **Core Logic:** leveraging **Java (Spring Boot)** for the primary service layer to ensure strict ACID compliance for billing and inventory data.
+* **Design Strategy:** Exploring **Event-Driven Architecture** to decouple services. Currently evaluating different message broker patterns (Pub/Sub vs. Message Queues) to handle asynchronous status updates.
+* **Scalability Planning:** Defining microservices boundaries based on domain-driven design (DDD) to prepare for a containerized deployment strategy.
+
+---
+
+## ⚡ Core Competencies
+
+* **System Design:** Experience designing DB schemas (SQL vs NoSQL) and defining API Contracts.
+* **Ownership:** I handle the full lifecycle—from Requirement Gathering to Deployment and Monitoring.
+* **Remote Ready:** Experienced in asynchronous communication, thorough documentation, and working with international timezones.
+
+---
+
+## 📫 Let's Collaborate
+
+I am currently **Open for Work** (Remote/Contract/Hybrid).
+
+I partner with teams that value **collaboration** and **technical excellence**. Whether you need someone to **architect a new feature** from scratch, **optimize existing systems**, or plug into your current workflow, I am ready to deliver.
+
+- **Email:** [shaikfarooque575@gmail.com](mailto:shaikfarooque575@gmail.com)
+- **Location:** India (IST) - Comfortable with Timezone overlaps
