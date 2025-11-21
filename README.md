@@ -1,7 +1,11 @@
+
+![product egineer](https://github.com/user-attachments/assets/d2aea505-e154-49c8-9e64-e5b756931325)
+
+
 <h1 align="center">Hey, I'm Shaik Farooque 🚀</h1>
 
 <p align="center">
-  <b>Full-Stack Engineer | Microservices Architect | Cloud-Native Developer</b>
+  <b>Full-Stack Engineer | Product Engineer | Cloud-Native Developer</b>
 </p>
 
 <p align="center">
