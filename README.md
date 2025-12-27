@@ -3,7 +3,6 @@
 <h1 align="center">Shaik Farooque</h1>
 <p align="center">
 Product-focused Full-Stack Engineer<br/>
-Building software behind real businesses
 </p>
 
 <p align="center">
