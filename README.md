@@ -1,4 +1,3 @@
-![Banner](https://github.com/user-attachments/assets/6add440a-3f92-4eb6-9a39-fef255b18cd1)
 
 <h1 align="center">Shaik Farooque</h1>
 
