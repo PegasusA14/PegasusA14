@@ -52,8 +52,3 @@
 ### ⚡ Engineering Philosophy
 
 I design and deploy production systems for the web and mobile. My focus is on **maintainability** and **business logic**—translating ambiguous requirements into stable, high-performance software.
-
-> **Note on Public Code:**
-> My public repositories are **personal case studies** demonstrating architecture patterns, workflow modeling, and system design.
->
-> *Client code and proprietary business logic are strictly protected under NDA.*
