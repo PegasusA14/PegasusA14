@@ -1,39 +1,50 @@
 # Resume
 
-## Personal Information
-- Name: John Doe
-- Email: john.doe@example.com
-- Phone: (123) 456-7890
-- LinkedIn: linkedin.com/in/johndoe
+## Professional Summary
+Dynamic and detail-oriented software developer with experience in crafting efficient web applications. Passionate about coding and skilled in identifying and solving technical issues. Excellent communicator and team player.
 
-## Summary
-Dynamic and results-oriented professional with over 5 years of experience in software development and project management. Proven skills in leading teams to achieve project goals and working collaboratively with stakeholders.
+## Technical Skills
+- **Languages:** JavaScript, Python, Ruby
+- **Frameworks:** React, Node.js, Ruby on Rails
+- **Tools:** Git, Docker, Jenkins
+- **Databases:** PostgreSQL, MongoDB
 
 ## Experience
 ### Software Developer
-ABC Technologies, Remote  
-March 2020 - Present  
-- Developed web applications using React and Node.js.
-- Led a team of developers in creating an award-winning mobile app.
-- Improved application performance by 30% through code optimization.
+**Company A** - Location  
+*Jan 2020 - Present*  
+- Developed and maintained web applications using React and Node.js.  
+- Collaborated with cross-functional teams to define and implement new features.  
 
-### Project Manager
-XYZ Corp, City, State  
-January 2018 - February 2020  
-- Managed end-to-end project lifecycle for multiple software projects.
-- Coordinated with clients to gather requirements and deliver solutions.
-- Mentored junior developers to enhance team capabilities.
+### Intern
+**Company B** - Location  
+*Jun 2019 - Dec 2019*  
+- Assisted in backend development for web applications using Ruby on Rails.  
+- Participated in code reviews and contributed to improving code quality.
+
+## Projects
+- **Project A:** Description of the project, its technologies, and outcomes.  
+- **Project B:** Description of the project, its technologies, and outcomes.
 
 ## Education
-- Bachelor of Science in Computer Science  
-University of Technology, 2017
+### Bachelor of Science in Computer Science  
+**University Name** - Location  
+*Graduated: Month Year*
 
-## Skills
-- Programming Languages: Java, Python, JavaScript
-- Frameworks: React, Express.js, Flask
-- Tools: Git, Docker, Jenkins
-- Soft Skills: Leadership, Communication, Problem-Solving
+---
 
-## Certifications
-- Certified ScrumMaster (CSM)
-- AWS Certified Solutions Architect
+### Contact Information
+- **Email:** your.email@example.com  
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com)  
+- **GitHub:** [Your GitHub](https://github.com/yourgithubusername)  
+
+![Profile Badge](https://img.shields.io/badge/Profile-Ready-brightgreen)  
+![Experience Badge](https://img.shields.io/badge/Experience-3%20Years-yellow)  
+![Language Badge](https://img.shields.io/badge/Language-JavaScript-blue)  
+
+---
+
+### Metrics
+- **Projects Completed:** 10+  
+- **Lines of Code Written:** 50,000+  
+- **GitHub Contributions:** 250+ weekly contributions.
