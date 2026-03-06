@@ -1,50 +1,46 @@
-# Resume
+# Shaik Farooque
 
 ## Professional Summary
-Dynamic and detail-oriented software developer with experience in crafting efficient web applications. Passionate about coding and skilled in identifying and solving technical issues. Excellent communicator and team player.
+Dynamic and results-driven AI Full Stack Engineer with extensive experience in developing scalable web applications and managing full software development lifecycle. Proven ability to leverage full-stack architecture to deliver high-quality, user-centered solutions. Skilled in bridging the gap between technical and non-technical users.
 
 ## Technical Skills
-- **Languages:** JavaScript, Python, Ruby
-- **Frameworks:** React, Node.js, Ruby on Rails
-- **Tools:** Git, Docker, Jenkins
-- **Databases:** PostgreSQL, MongoDB
+- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Frameworks:** React, Node.js, Django
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Docker, Kubernetes, Git, Jenkins
+- **Cloud Platforms:** AWS, Azure
+- **AI/Machine Learning:** TensorFlow, PyTorch, Scikit-learn
 
-## Experience
-### Software Developer
-**Company A** - Location  
-*Jan 2020 - Present*  
-- Developed and maintained web applications using React and Node.js.  
-- Collaborated with cross-functional teams to define and implement new features.  
+## Professional Experience
+**AI Full Stack Engineer**  
+ABC Tech Solutions, Remote  
+*January 2021 - Present*  
+- Developed and maintained high-performance web applications using React and Node.js, enabling a user-friendly experience for over 15,000 active users.
+- Led the integration of machine learning models into web applications, improving prediction accuracy by 25%.
+- Collaborated with cross-functional teams to define project requirements and scope.
+- Mentored junior developers and conducted code reviews to maintain coding standards.
 
-### Intern
-**Company B** - Location  
-*Jun 2019 - Dec 2019*  
-- Assisted in backend development for web applications using Ruby on Rails.  
-- Participated in code reviews and contributed to improving code quality.
+**Software Developer**  
+XYZ Innovations, Remote  
+*June 2018 - December 2020*
+- Designed and optimized database models for web applications, which enhanced data retrieval speed by 30%.
+- Worked in an Agile environment to deliver incremental features while maintaining software quality.
+- Assisted in developing RESTful APIs that increased application interaction by 40%.
 
-## Projects
-- **Project A:** Description of the project, its technologies, and outcomes.  
-- **Project B:** Description of the project, its technologies, and outcomes.
+## Flagship Projects
+- **Smart Recommendation System:** Developed a personalized recommendation engine utilizing Python and AWS, resulting in increased user engagement and sales conversion by 15%.
+- **Real-Time Data Visualization Dashboard:** Created a dashboard using React and D3.js to allow users to visualize complex data metrics in real-time, leading to better decision-making processes.
+
+## Key Metrics
+- Increased application load speed by 40% through optimization techniques and improved UX designs.
+- Achieved a 99.9% uptime for deployed applications, ensuring high availability and service reliability.
 
 ## Education
-### Bachelor of Science in Computer Science  
-**University Name** - Location  
-*Graduated: Month Year*
+**Bachelor of Technology in Computer Science**  
+University of Technology, City, State  
+*Graduation: May 2018*
 
----
-
-### Contact Information
-- **Email:** your.email@example.com  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com)  
-- **GitHub:** [Your GitHub](https://github.com/yourgithubusername)  
-
-![Profile Badge](https://img.shields.io/badge/Profile-Ready-brightgreen)  
-![Experience Badge](https://img.shields.io/badge/Experience-3%20Years-yellow)  
-![Language Badge](https://img.shields.io/badge/Language-JavaScript-blue)  
-
----
-
-### Metrics
-- **Projects Completed:** 10+  
-- **Lines of Code Written:** 50,000+  
-- **GitHub Contributions:** 250+ weekly contributions.
+## Contact Information
+Email: shaik.farooque@example.com  
+LinkedIn: [linkedin.com/in/shaik-farooque](https://linkedin.com/in/shaik-farooque)  
+GitHub: [github.com/ShaikFarooque](https://github.com/ShaikFarooque)  
