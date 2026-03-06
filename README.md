@@ -1,54 +1,39 @@
+# Resume
 
-<h1 align="center">Shaik Farooque</h1>
+## Personal Information
+- Name: John Doe
+- Email: john.doe@example.com
+- Phone: (123) 456-7890
+- LinkedIn: linkedin.com/in/johndoe
 
-<p align="center">
-  <strong>Product-focused Full-Stack Engineer</strong><br/>
-  Architecting vertical SaaS, mobile ecosystems, and scalable backends.
-</p>
+## Summary
+Dynamic and results-oriented professional with over 5 years of experience in software development and project management. Proven skills in leading teams to achieve project goals and working collaboratively with stakeholders.
 
-<p align="center">
-  <a href="mailto:shaikfarooque575@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shaikfarooque">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/AltairFarooque">X</a> &nbsp;·&nbsp;
-  <a href="https://altairfarooquedev.com">Portfolio</a>
-</p>
+## Experience
+### Software Developer
+ABC Technologies, Remote  
+March 2020 - Present  
+- Developed web applications using React and Node.js.
+- Led a team of developers in creating an award-winning mobile app.
+- Improved application performance by 30% through code optimization.
 
-<p align="center">
-  📍 <strong>Remote (India)</strong> — <em>Available for daily overlap with EU/US timezones.</em>
-</p>
+### Project Manager
+XYZ Corp, City, State  
+January 2018 - February 2020  
+- Managed end-to-end project lifecycle for multiple software projects.
+- Coordinated with clients to gather requirements and deliver solutions.
+- Mentored junior developers to enhance team capabilities.
 
-<br/>
+## Education
+- Bachelor of Science in Computer Science  
+University of Technology, 2017
 
-<h3 align="center">Core Stack</h3>
+## Skills
+- Programming Languages: Java, Python, JavaScript
+- Frameworks: React, Express.js, Flask
+- Tools: Git, Docker, Jenkins
+- Soft Skills: Leadership, Communication, Problem-Solving
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Stripe-000000?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-</p>
-
-<br/>
-
----
-
-### ⚡ Engineering Philosophy
-
-I design and deploy production systems for the web and mobile. My focus is on **maintainability** and **business logic**—translating ambiguous requirements into stable, high-performance software.
+## Certifications
+- Certified ScrumMaster (CSM)
+- AWS Certified Solutions Architect
