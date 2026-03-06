@@ -20,6 +20,19 @@ from LLM agents and RAG pipelines to cloud-deployed APIs and mobile apps.
 
 ---
 
+**Activity**
+
+<div align="center">
+
+<table><tr>
+<td><a href="https://github.com/PegasusA14"><img src="https://streak-stats.demolab.com?user=PegasusA14&theme=radical&hide_border=true" /></a></td>
+<td><a href="https://github.com/PegasusA14"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PegasusA14&layout=compact&theme=radical&hide_border=true&langs_count=8" /></a></td>
+</tr></table>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PegasusA14&bg_color=0d1117&color=e6edf3&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true)](https://github.com/PegasusA14)
+
+</div>
+
 **AI · GenAI · Agents**
 
 <p>
@@ -83,18 +96,7 @@ from LLM agents and RAG pipelines to cloud-deployed APIs and mobile apps.
 
 ---
 
-**Activity**
 
-<div align="center">
-
-<table><tr>
-<td><a href="https://github.com/PegasusA14"><img src="https://streak-stats.demolab.com?user=PegasusA14&theme=radical&hide_border=true" /></a></td>
-<td><a href="https://github.com/PegasusA14"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PegasusA14&layout=compact&theme=radical&hide_border=true&langs_count=8" /></a></td>
-</tr></table>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PegasusA14&bg_color=0d1117&color=e6edf3&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true)](https://github.com/PegasusA14)
-
-</div>
 
 
 <div align="center">
